@@ -1,0 +1,10 @@
+MDIO_PROGRAM.d MDIO_PROGRAM.o: .././MDIO_PROGRAM.c .././DATA_TYPES.h \
+ .././LBIT_MATH.h .././MDIO_PRIVATE.h .././MDIO_INTERFACE.h
+
+.././DATA_TYPES.h:
+
+.././LBIT_MATH.h:
+
+.././MDIO_PRIVATE.h:
+
+.././MDIO_INTERFACE.h:
